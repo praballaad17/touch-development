@@ -1,0 +1,3 @@
+s6WsYTUMaesDZbvT
+
+mongodb+srv://user:s6WsYTUMaesDZbvT@cluster0.pk0fq.mongodb.net/Touch?retryWrites=true&w=majority
